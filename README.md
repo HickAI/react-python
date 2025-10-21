@@ -1,5 +1,7 @@
 # React-Python #
 
+Use React as Frontend and Python as Backend!!!
+
 Flask JWT Backend and a React/Redux Front-End with Material UI.
 
 * Python 2.7+ or 3.x
